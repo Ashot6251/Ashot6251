@@ -16,3 +16,11 @@ Hi! I'm Ashot Sarukhanyan, a Computer Science student at the American University
 - **Data Structures & Algorithms** – Improving problem-solving through LeetCode.
 - **Spring Boot** – Learning to build RESTful APIs and backend services.
 - **SQL** – Practicing basic to intermediate queries using MySQL.
+
+## 🛠️ Projects:
+- **TAN**  
+  A 2D local multiplayer desktop game built in Java using the Swing library.
+- **Online Store**  
+  A responsive store interface developed with HTML, CSS, and Bootstrap. Designed for clean structure, accessibility, and user-friendly browsing.
+- **Arduino Catapult Robot**  
+  A physical robotics project built using Arduino and C. Programmed and constructed a functional catapult mechanism capable of launching objects.
