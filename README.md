@@ -3,8 +3,10 @@ Hi! I'm Ashot Sarukhanyan, a Computer Science student at the American University
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashot-sarukhanyan-398420368) <a href="https://linkedin.com/in/YOUR_PROFILE" target="_blank">
+<a href="https://linkedin.com/in/ashot-sarukhanyan-398420368" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+</a> <a href="https://leetcode.com/Ashot6251_" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/>
 </a>
 
 ## 💻 Tech Stack:
